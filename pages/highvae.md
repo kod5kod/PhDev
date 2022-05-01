@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+## Project HIGH-VAE
+
+
 
 _yay_
 
