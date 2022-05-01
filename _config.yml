@@ -17,7 +17,7 @@ sidebar:
   #   link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
   - name: Project HIGH-VAE
     icon: <i class="fa-brands fa-github"></i>
-    link: pages/highvae.md
+    link: pages/highvae.html
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/kod5kod
