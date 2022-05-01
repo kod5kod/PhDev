@@ -18,6 +18,9 @@ sidebar:
   - name: Project HIGH-VAE
     icon: <i class="fa-solid fa-code"></i>
     link: pages/highvae.html
+  - name: Project TBD
+    icon: <i class="fa-solid fa-code"></i>
+    link: pages/highvae.html
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/kod5kod
