@@ -17,10 +17,10 @@ sidebar:
   #   link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
   - name: Project HIGH-VAE
     icon: <i class="fa-solid fa-code"></i>
-    link: pages/highvae.html
+    link: https://kod5kod.github.io/PhDev/pages/highvae.html
   - name: Project TBD
     icon: <i class="fa-solid fa-code"></i>
-    link: pages/tbd.html
+    link: https://kod5kod.github.io/PhDev/pages/tbd.html
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/kod5kod
