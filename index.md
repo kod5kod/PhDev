@@ -2,13 +2,18 @@
 layout: default
 ---
 
-# PhDev 
+# PhDev   
 
 
 ```
-Research, Development & PhDing
-```
+Research, Development & PhDing  
+```  
+  
+  
 
 
-## Project HIGH-VAE
+## Project HIGH-VAE  
 
+
+
+## Project TBD
