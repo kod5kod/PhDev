@@ -79,6 +79,7 @@ __(G) Upload paper to arxive__
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:0px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7p3h{border-color:inherit;font-size:x-small;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
@@ -101,290 +102,290 @@ __(G) Upload paper to arxive__
     <td class="tg-0pky">Sunday, March 13</td>
     <td class="tg-0pky">Saturday, March 19</td>
     <td class="tg-0pky">Basic Exploration</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Identify datasets<br>&nbsp;&nbsp;<br></td>
-    <td class="tg-0pky">identify current approaches</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h">Identify datasets<br>&nbsp;&nbsp;<br></td>
+    <td class="tg-7p3h">identify current approaches</td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 12</span></td>
     <td class="tg-0pky">Sunday, March 20</td>
     <td class="tg-0pky">Saturday, March 26</td>
     <td class="tg-0pky">Basic Exploration</td>
-    <td class="tg-0pky">identify current approaches<br>Identify drawbacks of approaches</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Identify drawbacks of approaches<br>Specify our proposal</td>
-    <td class="tg-0pky">52002 midterms</td>
+    <td class="tg-7p3h">identify current approaches<br>Identify drawbacks of approaches</td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h">Identify drawbacks of approaches<br>Specify our proposal</td>
+    <td class="tg-7p3h">52002 midterms</td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 13</span></td>
     <td class="tg-0pky">Sunday, March 27</td>
     <td class="tg-0pky">Saturday, April 2</td>
     <td class="tg-0pky">Proof of concept</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 14</span></td>
     <td class="tg-0pky">Sunday, April 3</td>
     <td class="tg-0pky">Saturday, April 9</td>
     <td class="tg-0pky">Proof of concept</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 15</span></td>
     <td class="tg-0pky">Sunday, April 10</td>
     <td class="tg-0pky">Saturday, April 16</td>
     <td class="tg-0pky">Proof of concept</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 16</span></td>
     <td class="tg-0pky">Sunday, April 17</td>
     <td class="tg-0pky">Saturday, April 23</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 17</span></td>
     <td class="tg-0pky">Sunday, April 24</td>
     <td class="tg-0pky">Saturday, April 30</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 18</span></td>
     <td class="tg-0pky">Sunday, May 1</td>
     <td class="tg-0pky">Saturday, May 7</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 19</span></td>
     <td class="tg-0pky">Sunday, May 8</td>
     <td class="tg-0pky">Saturday, May 14</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 20</span></td>
     <td class="tg-0pky">Sunday, May 15</td>
     <td class="tg-0pky">Saturday, May 21</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 21</span></td>
     <td class="tg-0pky">Sunday, May 22</td>
     <td class="tg-0pky">Saturday, May 28</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 22</span></td>
     <td class="tg-0pky">Sunday, May 29</td>
     <td class="tg-0pky">Saturday, June 4</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 23</span></td>
     <td class="tg-0pky">Sunday, June 5</td>
     <td class="tg-0pky">Saturday, June 11</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 24</span></td>
     <td class="tg-0pky">Sunday, June 12</td>
     <td class="tg-0pky">Saturday, June 18</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 25</span></td>
     <td class="tg-0pky">Sunday, June 19</td>
     <td class="tg-0pky">Saturday, June 25</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 26</span></td>
     <td class="tg-0pky">Sunday, June 26</td>
     <td class="tg-0pky">Saturday, July 2</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 27</span></td>
     <td class="tg-0pky">Sunday, July 3</td>
     <td class="tg-0pky">Saturday, July 9</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 28</span></td>
     <td class="tg-0pky">Sunday, July 10</td>
     <td class="tg-0pky">Saturday, July 16</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 29</span></td>
     <td class="tg-0pky">Sunday, July 17</td>
     <td class="tg-0pky">Saturday, July 23</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 30</span></td>
     <td class="tg-0pky">Sunday, July 24</td>
     <td class="tg-0pky">Saturday, July 30</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 31</span></td>
     <td class="tg-0pky">Sunday, July 31</td>
     <td class="tg-0pky">Saturday, August 6</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 32</span></td>
     <td class="tg-0pky">Sunday, August 7</td>
     <td class="tg-0pky">Saturday, August 13</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 33</span></td>
     <td class="tg-0pky">Sunday, August 14</td>
     <td class="tg-0pky">Saturday, August 20</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 34</span></td>
     <td class="tg-0pky">Sunday, August 21</td>
     <td class="tg-0pky">Saturday, August 27</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 35</span></td>
     <td class="tg-0pky">Sunday, August 28</td>
     <td class="tg-0pky">Saturday, September 3</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 36</span></td>
     <td class="tg-0pky">Sunday, September 4</td>
     <td class="tg-0pky">Saturday, September 10</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 37</span></td>
     <td class="tg-0pky">Sunday, September 11</td>
     <td class="tg-0pky">Saturday, September 17</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 38</span></td>
     <td class="tg-0pky">Sunday, September 18</td>
     <td class="tg-0pky">Saturday, September 24</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 39</span></td>
     <td class="tg-0pky">Sunday, September 25</td>
     <td class="tg-0pky">Saturday, October 1</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h"></td>
   </tr>
 </tbody>
 </table>
