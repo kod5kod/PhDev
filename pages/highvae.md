@@ -102,8 +102,8 @@ __(G) Upload paper to arxive__
     <td class="tg-0pky">Saturday, March 19</td>
     <td class="tg-0pky">Basic Exploration</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Identify datasets<br>&nbsp;&nbsp;<br></td>
+    <td class="tg-0pky">identify current approaches</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -111,10 +111,10 @@ __(G) Upload paper to arxive__
     <td class="tg-0pky">Sunday, March 20</td>
     <td class="tg-0pky">Saturday, March 26</td>
     <td class="tg-0pky">Basic Exploration</td>
+    <td class="tg-0pky">identify current approaches<br>Identify drawbacks of approaches</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Identify drawbacks of approaches<br>Specify our proposal</td>
+    <td class="tg-0pky">52002 midterms</td>
   </tr>
   <tr>
     <td class="tg-g7sd"><span style="font-weight:bold">Week 13</span></td>
