@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Project HIGH-VAE
+# Project HIGH-VAE
 
 > A general variational autoencoder framework aimed at fitting high-cardinality & heterogenous tabular data.
   
@@ -13,13 +13,13 @@ layout: default
 * * *    
 
 
-### Project Resources:
+## Project Resources:
 
 *   [High-VAE General Project Description](https://kod5kod.github.io/PhDev/pages/HighVAE_general.pdf)
 *   [Project's Kanban Board](https://github.com/kod5kod/HighVAE/projects/1)
       
 
-### Colab Notebooks:
+## Colab Notebooks:
 
 
 
@@ -27,10 +27,10 @@ layout: default
 * * *  
 
 
-### Project Roadmap
+## Project Roadmap
 
 
-#### Research Stages
+### Research Stages
 
 __(A) Basic exploration:__  
 * Identify competition/current state-of-the-art approches     
@@ -52,7 +52,7 @@ __(C) Evaluate PoC on various datasets__
 * Test using more evaluation methods
 * Identify strengths and weaknesses  
   
-__(D)Test and deploy improvements (another R&D cycle)__  
+__(D) Test and deploy improvements (another R&D cycle)__  
 * Research improvements/additions to the methodology  
 * Add improvements into the code
 * Test and benchmark again against current approaches
@@ -71,7 +71,7 @@ __(G) Upload paper to arxive__
 * Finalize paper write-up  
 * Finalize and make the code/repository public  
 
-#### Research Schedule by Week
+### Research Schedule by Week
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
