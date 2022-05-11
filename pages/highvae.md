@@ -253,7 +253,7 @@ __(G) Upload paper to arxive__
     <td class="tg-0pky">Saturday, August 27</td>
     <td class="tg-0pky">Evaluation framework</td>
     <td class="tg-7p3h"></td>
-    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h">Develop a general evaluation framework</td>
     <td class="tg-7p3h"></td>
     <td class="tg-7p3h"></td>
   </tr>
@@ -263,7 +263,7 @@ __(G) Upload paper to arxive__
     <td class="tg-0pky">Saturday, September 3</td>
     <td class="tg-0pky">Evaluation framework</td>
     <td class="tg-7p3h"></td>
-    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h">Test different approaches using <br>Test different datasets and evaluation metrics</td>
     <td class="tg-7p3h"></td>
     <td class="tg-7p3h"></td>
   </tr>
@@ -273,7 +273,7 @@ __(G) Upload paper to arxive__
     <td class="tg-0pky">Saturday, September 10</td>
     <td class="tg-0pky">Evaluation framework</td>
     <td class="tg-7p3h"></td>
-    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h">Create a user-friendly library</td>
     <td class="tg-7p3h"></td>
     <td class="tg-7p3h"></td>
   </tr>
@@ -294,7 +294,7 @@ __(G) Upload paper to arxive__
     <td class="tg-0pky">arXiv write-up</td>
     <td class="tg-7p3h"></td>
     <td class="tg-7p3h"></td>
-    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h">Finalize paper write-up</td>
     <td class="tg-7p3h"></td>
   </tr>
   <tr>
@@ -303,8 +303,8 @@ __(G) Upload paper to arxive__
     <td class="tg-0pky">Saturday, October 1</td>
     <td class="tg-0pky">arXiv write-up</td>
     <td class="tg-7p3h"></td>
-    <td class="tg-7p3h"></td>
-    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h">Finalize and make the code/repository public</td>
+    <td class="tg-7p3h">Group's peer review</td>
     <td class="tg-7p3h"></td>
   </tr>
   <tr>
@@ -313,8 +313,8 @@ __(G) Upload paper to arxive__
     <td class="tg-0pky">Saturday, October 8</td>
     <td class="tg-0pky">arXiv write-up</td>
     <td class="tg-7p3h"></td>
-    <td class="tg-7p3h"></td>
-    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h">Finalize and make the code/repository public</td>
+    <td class="tg-7p3h">Finalize paper write-up</td>
     <td class="tg-7p3h"></td>
   </tr>
   <tr>
