@@ -90,10 +90,10 @@ __(G) Upload paper to arxive__
     <th class="tg-0pky">Starts</th>
     <th class="tg-0pky">Ends</th>
     <th class="tg-0pky">Stage</th>
-    <th class="tg-0pky">Theory</th>
-    <th class="tg-0pky">Development </th>
-    <th class="tg-0pky">Writing</th>
-    <th class="tg-0pky">Limitations<br><br></th>
+    <th class="tg-0pky">Theory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.</th>
+    <th class="tg-0pky">Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.</th>
+    <th class="tg-0pky">Writing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.</th>
+    <th class="tg-0pky">Limitations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br><br></th>
   </tr>
 </thead>
 <tbody>
@@ -123,7 +123,7 @@ __(G) Upload paper to arxive__
     <td class="tg-0pky">Saturday, April 2</td>
     <td class="tg-0pky">Proof of concept</td>
     <td class="tg-7p3h"></td>
-    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h">Develop an entity-embedding VAE<br>Test on high-cardinality datasets<br>Test against one-hot encoding</td>
     <td class="tg-7p3h"></td>
     <td class="tg-7p3h"></td>
   </tr>
@@ -133,7 +133,7 @@ __(G) Upload paper to arxive__
     <td class="tg-0pky">Saturday, April 9</td>
     <td class="tg-0pky">Proof of concept</td>
     <td class="tg-7p3h"></td>
-    <td class="tg-7p3h"></td>
+    <td class="tg-7p3h">Test against top 2-current approaches<br>Evaluate embeddings<br></td>
     <td class="tg-7p3h"></td>
     <td class="tg-7p3h"></td>
   </tr>
