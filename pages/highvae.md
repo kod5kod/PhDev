@@ -32,44 +32,46 @@ layout: default
 
 #### Research Stages
 
-$(A) Basic exploration:$
+$$(A) Basic exploration:$$  
 * Identify competition/current state-of-the-art approches     
 * Why current approaches don't work well on our data of interest (specific examples)  
 * Specify our proposals to combat shortcomings of current approaches (entity embeddings)   
 * Identify/Gather datasets   
 * Identify evaluation methods/metrics  
   
-$(B) Proof of concept  (PoC)$ 
+$$(B) Proof of concept  (PoC)$$   
 * Develop an entity-embedding VAE architecture  
 * Test on high-cardinality datasets using evaluation method of choice
 * Test against one-hot encoding  
 * Test against top 2-current approaches
 * Evaluate embeddings 
   
-$(C) Evaluate PoC on various datasets$   
+$$(C) Evaluate PoC on various datasets$$     
 * Test on various datasets with different characteristics  
 * Test on more current approaches 
 * Test using more evaluation methods
 * Identify strengths and weaknesses  
   
-$(D)Test and deploy improvements (another R&D cycle)$
+$$(D)Test and deploy improvements (another R&D cycle)$$  
 * Research improvements/additions to the methodology  
 * Add improvements into the code
 * Test and benchmark again against current approaches
   
-$(E) Develop and code a general python framework$  
+$$(E) Develop and code a general python framework$$    
 * Develop a general python pipeline for learning high-cardinality & heterogenous data using VAE  
 * Create a user-friendly library for synthetic data generation & embeddings visualization   
 * Push to github
   
-$(F) Provide an evaluation framework$   
+$$(F) Provide an evaluation framework$$       
 * Develop a general evaluation framework of different approaches using different datasets and evaluation metrics
 * Create a user-friendly library for evaluating different methods & datasets 
 * Push to github
   
-$(G) Upload paper to arxive$ 
+$$(G) Upload paper to arxive$$   
 * Finalize paper write-up  
-* Finalize and make the code/repository public
+* Finalize and make the code/repository public  
+
+#### Research Schedule by Week
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
