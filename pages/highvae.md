@@ -32,42 +32,42 @@ layout: default
 
 #### Research Stages
 
-$$(A) Basic exploration:$$  
+__(A) Basic exploration:__  
 * Identify competition/current state-of-the-art approches     
 * Why current approaches don't work well on our data of interest (specific examples)  
 * Specify our proposals to combat shortcomings of current approaches (entity embeddings)   
 * Identify/Gather datasets   
 * Identify evaluation methods/metrics  
   
-$$(B) Proof of concept  (PoC)$$   
+__(B) Proof of concept (PoC)__   
 * Develop an entity-embedding VAE architecture  
 * Test on high-cardinality datasets using evaluation method of choice
 * Test against one-hot encoding  
 * Test against top 2-current approaches
 * Evaluate embeddings 
   
-$$(C) Evaluate PoC on various datasets$$     
+__(C) Evaluate PoC on various datasets__     
 * Test on various datasets with different characteristics  
 * Test on more current approaches 
 * Test using more evaluation methods
 * Identify strengths and weaknesses  
   
-$$(D)Test and deploy improvements (another R&D cycle)$$  
+__(D)Test and deploy improvements (another R&D cycle)__  
 * Research improvements/additions to the methodology  
 * Add improvements into the code
 * Test and benchmark again against current approaches
   
-$$(E) Develop and code a general python framework$$    
+__(E) Develop and code a general python framework__    
 * Develop a general python pipeline for learning high-cardinality & heterogenous data using VAE  
 * Create a user-friendly library for synthetic data generation & embeddings visualization   
 * Push to github
   
-$$(F) Provide an evaluation framework$$       
+__(F) Provide an evaluation framework__       
 * Develop a general evaluation framework of different approaches using different datasets and evaluation metrics
 * Create a user-friendly library for evaluating different methods & datasets 
 * Push to github
   
-$$(G) Upload paper to arxive$$   
+__(G) Upload paper to arxive__   
 * Finalize paper write-up  
 * Finalize and make the code/repository public  
 
