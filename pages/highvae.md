@@ -13,12 +13,13 @@ layout: default
 * * *    
 
 
-#### Project Resources:
+### Project Resources:
 
 *   [High-VAE General Project Description](https://kod5kod.github.io/PhDev/pages/HighVAE_general.pdf)
 *   [Project's Kanban Board](https://github.com/kod5kod/HighVAE/projects/1)
-    
-
+      
+      
+### Colab Notebooks:
 
 
 
