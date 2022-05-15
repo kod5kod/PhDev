@@ -25,8 +25,8 @@ layout: default
 
 ## Colab Notebooks:
 
-[![PetFinder Entity-Embedding Prediction Task](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kod5kod/HighVAE/blob/main/notebooks/PetFinderEE_20220508.ipynb)  
-[![PetFinder 1-Hot Encoding Prediction Task](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kod5kod/HighVAE/blob/main/notebooks/PetFinderOH_20220508.ipynb)
+PetFinder Entity-Embedding Prediction Task: [![PetFinder Entity-Embedding Prediction Task](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kod5kod/HighVAE/blob/main/notebooks/PetFinderEE_20220508.ipynb)  
+PetFinder 1-Hot Encoding Prediction Task: [![PetFinder 1-Hot Encoding Prediction Task](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kod5kod/HighVAE/blob/main/notebooks/PetFinderOH_20220508.ipynb)
 
 
 * * *  
