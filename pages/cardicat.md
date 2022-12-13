@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Project HIGH-VAE
+# Project CardiCat
 
-> A general variational autoencoder framework aimed at fitting high-cardinality & heterogenous tabular data.
+> A general variational autoencoder framework aimed at fitting high-cardinality tabular data.
   
   
   
@@ -15,25 +15,16 @@ layout: default
 
 ## Project Resources:
 
-*   [Project's Git Repository](https://github.com/kod5kod/HighVAE)  
-* 	[High-VAE Walk-throught](https://github.com/kod5kod/HighVAE/blob/main/notebooks/HighVAE_walkThrough_20220616.ipynb)
-* 	[High-VAE General Project Description](https://kod5kod.github.io/PhDev/pages/HighVAE_general.pdf)
-*   [Project's Kanban Board](https://github.com/kod5kod/HighVAE/projects/1)
-*   [High-VAE Project Roadmap](https://kod5kod.github.io/PhDev/pages/hv_roadmap.html)  
+*   [Project's Git Repository](https://github.com/kod5kod/cardicat)  
+* 	[High-VAE Walk-throught](https://github.com/kod5kod/cardicat/blob/main/notebooks/HighVAE_walkThrough_20220616.ipynb)
+* 	[High-VAE General Project Description](https://kod5kod.github.io/PhDev/pages/cardicat_general.pdf)
+*   [Project's Kanban Board](https://github.com/kod5kod/cardicat/projects/1)
+*   [CardiCat Project Roadmap](https://kod5kod.github.io/PhDev/pages/cardicat_roadmap.html)  
 
   
 * * *  
       
 
-## Colab Notebooks:  
-
-
-  
-
-Old Notebooks:  
-
-[![PetFinder Entity-Embedding Prediction Task](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kod5kod/HighVAE/blob/main/notebooks/PetFinderEE_20220508.ipynb) - PetFinder Entity-Embedding Prediction Task   
-[![PetFinder 1-Hot Encoding Prediction Task](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kod5kod/HighVAE/blob/main/notebooks/PetFinderOH_20220508.ipynb) - PetFinder 1-Hot Encoding Prediction Task
 
 
 * * *  
