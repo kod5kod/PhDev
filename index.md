@@ -6,9 +6,13 @@ layout: default
 
 
 ```
-Research, Development & PhDing  
-```  
+Research, Development & PhDing:  
+```    
+
   
+* * *  
+I am a PhD student in statistics. I am fortunate to be advised by Doctor Yuval Benjamini. 
+My research interests include generative models for large scale tabular data and categorical re/presentation. 
 
 * * *   
   
