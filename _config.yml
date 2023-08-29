@@ -17,7 +17,7 @@ sidebar:
   #   link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
   - name: Project CardiCat
     icon: <i class="fa-solid fa-code"></i>
-    link: https://kod5kod.github.io/PhDev/pages/cardicat_enc.html
+    link: https://kod5kod.github.io/PhDev/pages/cardicat.html
   - name: Project TBD
     icon: <i class="fa-solid fa-code"></i>
     link: https://kod5kod.github.io/PhDev/pages/tbd.html
