@@ -1,2 +1,2 @@
-https://kod5kod.github.io/PhDev/pages/cardicat.html leerulez
-
+pages/cardicat.html  leerulez 
+pages/tbd.html  leerulez 
