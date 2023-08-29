@@ -22,8 +22,7 @@ sidebar:
   - name: Project MixSim
     icon: <i class="fa-solid fa-code"></i>
     link: https://kod5kod.github.io/PhDev/pages/MixSim.html
-    
-    
+    <br>
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/kod5kod
