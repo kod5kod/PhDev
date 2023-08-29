@@ -28,7 +28,7 @@ sidebar:
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/kod5kod
   - name: Huji Statistics
-    icon: <i class="fa-regular fa-building-columns"></i>
+    icon: <i class="fa-solid fa-building-columns"></i>
     link: https://en.stat.huji.ac.il/
 
 # When running locally, we run into the following error —
