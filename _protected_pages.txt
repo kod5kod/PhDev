@@ -1,2 +1,2 @@
-pages/cardicat.html  leerulez
+pages/cardicat.html  leerulez leerulez
 
