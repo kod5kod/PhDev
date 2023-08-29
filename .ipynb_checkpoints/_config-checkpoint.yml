@@ -17,10 +17,13 @@ sidebar:
   #   link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
   - name: Project CardiCat
     icon: <i class="fa-solid fa-code"></i>
-    link: https://kod5kod.github.io/PhDev/pages/cardicat.html
-  - name: Project TBD
+    link: https://kod5kod.github.io/PhDev/pages/A.html
+  - name: Project Gerc
     icon: <i class="fa-solid fa-code"></i>
-    link: https://kod5kod.github.io/PhDev/pages/tbd.html
+    link: https://kod5kod.github.io/PhDev/pages/gerc.html
+  - name: Project MixSim
+    icon: <i class="fa-solid fa-code"></i>
+    link: https://kod5kod.github.io/PhDev/pages/MixSim.html
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/kod5kod

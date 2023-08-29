@@ -18,11 +18,11 @@ My research interests include generative models for large scale tabular data and
   
 
 
-## Project CardiCat 
+## Project A (Restricted)  
 
-> A general variational autoencoder framework aimed at fitting high-cardinality tabular data.  
+> NOT YET PUBLISHED  
   
-[Project CardiCat](https://kod5kod.github.io/PhDev/pages/cardicat.html)
+[Project A (Restricted)](https://kod5kod.github.io/PhDev/pages/A.html)
 
 * * *   
 
@@ -38,10 +38,23 @@ Providing  a foundation model (e.g., BERT, DALL-E, GPT-3) that is trained on bro
 * * * 
 
 
-##  Project -----
+##  Project MixSim
+
+> Simulating mixed-type variables.
+
+A sound package for simulating mixed-type variables. 
+
+[Project MixSim](https://kod5kod.github.io/PhDev/pages/MixSim.html)
+
+* * *   
 
 
-> 
+##  Project TBD
 
+> TBD
+
+TBD
+
+[Project TBD](https://kod5kod.github.io/PhDev/pages/tbd.html)
 
 * * *   
