@@ -43,7 +43,7 @@ jobs:
           npm i -D pagecrypt
           cat _protected_pages.txt | while read file password;
           do
-	    sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
+            sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
           done
       # End encryption code.
 
@@ -61,3 +61,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+
