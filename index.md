@@ -22,7 +22,7 @@ My research interests include generative models for large scale tabular data and
 
 > NOT YET PUBLISHED  
   
-[Project A (Restricted)](https://kod5kod.github.io/PhDev/pages/A.html)
+[Project A (Restricted)](https://kod5kod.github.io/PhDev/pages/encrypted/A.html)
 
 * * *   
 
