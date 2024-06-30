@@ -1,3 +1,5 @@
-pages/A.html  leerulez 
-pages/A.html  leerulez 
-pages/gerc.html  leerulez 
+pages/Card.html  statistics
+pages/Gerc.html  statistics 
+pages/MixSim.html  statistics 
+pages/Gerc.html  statistics 
+

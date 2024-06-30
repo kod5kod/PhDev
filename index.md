@@ -18,11 +18,11 @@ My research interests include generative models for large scale tabular data and
   
 
 
-## Project A (Restricted)  
+## Project CARD (Restricted)  
 
 > NOT YET PUBLISHED  
   
-[Project A (Restricted)](https://kod5kod.github.io/PhDev/pages/encrypted/A.html)
+[Project A (Restricted)](https://kod5kod.github.io/PhDev/pages/Card.html)
 
 * * *   
 
@@ -33,7 +33,7 @@ My research interests include generative models for large scale tabular data and
 
 Providing  a foundation model (e.g., BERT, DALL-E, GPT-3) that is trained on broad data at scale to be used on a wide range of downstream tasks.
   
-[Project GERC](https://kod5kod.github.io/PhDev/pages/gerc.html)
+[Project GERC](https://kod5kod.github.io/PhDev/pages/Gerc.html)
 
 * * * 
 
