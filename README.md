@@ -2,4 +2,4 @@
 
 ## HOLA
 
-Not really used in the website
+Not really used in the website, yet.
